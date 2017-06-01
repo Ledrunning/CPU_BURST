@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  Source.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  SJF_Algorithm.vcxproj -> D:\IT_STEP\Projects\IT_STEP_CPP\Planning_and_managementOS\CPU_BURST\SJF\SJF_Algorithm_timings\Debug\SJF_Algorithm.exe
+  SJF_Algorithm.vcxproj -> D:\IT_STEP\Projects\IT_STEP_CPP\Planning_and_managementOS\CPU_BURST\SJF\SJF_Algorithm_timings\Debug\SJF_Algorithm.pdb (Partial PDB)
