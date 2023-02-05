@@ -15,4 +15,4 @@ These examples show how two algorithms work.
 ##1 - FCFS (First Come First Serve)
 ##2 - SJF (Shortest Job First)
 
-All source written in C++ in Visual Studio 2015
+All source code written in C++ in Visual Studio 2015
